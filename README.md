@@ -1,1 +1,1 @@
-These are some python codes teach in our class
+These are some python codes teached in our class
